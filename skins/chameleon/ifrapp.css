@@ -1,0 +1,20 @@
+/***** ifrapp plugin styles *****/
+
+#ktaskpopup a.button-ifrapp span.button-inner, #taskmenu span.activetask.ifrapp
+{
+  background: url(ifrapp.png) 0px 5px no-repeat;
+}
+
+#ktaskpopup a.button-ifrapp:hover span.button-inner,
+#ktaskpopup a.button-ifrapp.button-selected:hover span.button-inner
+{
+  background: url(ifrapp.png) 1px -18px no-repeat;
+}
+
+#mainscreen
+{
+top: 61px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+}
