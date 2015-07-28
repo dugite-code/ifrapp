@@ -8,7 +8,7 @@
 #ktaskpopup a.button-ifrapp:hover span.button-inner,
 #ktaskpopup a.button-ifrapp.button-selected:hover span.button-inner
 {
-  background: url(ifrapp.png) 1px -18px no-repeat;
+  background: url(ifrapp.png) 0px -17px no-repeat;
 }
 
 #mainscreen
